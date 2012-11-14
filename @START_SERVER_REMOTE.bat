@@ -7,7 +7,7 @@ echo.
 echo.
 echo.
 echo Starting server...
-start .\Expansion\beta\arma2oaserver.exe -mod=@hive;@dayz -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
+start .\Expansion\beta\arma2oaserver.exe -mod=@hive;@dayz;@dayz_namalsk -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
 .\MySQL\cecho {0A}	OK.{07} 
 echo.
 echo.
