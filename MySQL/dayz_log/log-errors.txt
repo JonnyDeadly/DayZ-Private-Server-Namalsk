@@ -1,0 +1,233 @@
+121109 22:18:09 [Note] Plugin 'FEDERATED' is disabled.
+121109 22:18:09 [Note] Plugin 'InnoDB' is disabled.
+121109 22:18:09 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121109 22:18:09 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121109 22:18:09 [Note] Server socket created on IP: '127.0.0.1'.
+121109 22:18:09 [Note] Event Scheduler: Loaded 0 events
+121109 22:18:09 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121109 22:19:07 [Note] .\bin\mysqld: Normal shutdown
+
+121109 22:19:07 [Note] Event Scheduler: Purging the queue. 0 events
+121109 22:19:07 [Note] .\bin\mysqld: Shutdown complete
+
+121109 22:19:10 [Note] Plugin 'FEDERATED' is disabled.
+121109 22:19:10 [Note] Plugin 'InnoDB' is disabled.
+121109 22:19:10 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121109 22:19:10 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121109 22:19:10 [Note] Server socket created on IP: '127.0.0.1'.
+121109 22:19:10 [Note] Event Scheduler: Loaded 0 events
+121109 22:19:10 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121109 22:19:28 [Note] .\bin\mysqld: Normal shutdown
+
+121109 22:19:28 [Note] Event Scheduler: Purging the queue. 0 events
+121109 22:19:28 [Note] .\bin\mysqld: Shutdown complete
+
+121110 11:57:04 [Note] Plugin 'FEDERATED' is disabled.
+121110 11:57:04 [Note] Plugin 'InnoDB' is disabled.
+121110 11:57:05 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 11:57:05 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 11:57:05 [Note] Server socket created on IP: '127.0.0.1'.
+121110 11:57:05 [Note] Event Scheduler: Loaded 0 events
+121110 11:57:05 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 11:57:29 [Note] Plugin 'FEDERATED' is disabled.
+121110 11:57:29 [Note] Plugin 'InnoDB' is disabled.
+121110 11:57:30 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 11:57:30 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 11:57:30 [Note] Server socket created on IP: '127.0.0.1'.
+121110 11:57:30 [Note] Event Scheduler: Loaded 0 events
+121110 11:57:30 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 11:58:21 [Note] Plugin 'FEDERATED' is disabled.
+121110 11:58:21 [Note] Plugin 'InnoDB' is disabled.
+121110 11:58:21 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 11:58:21 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 11:58:21 [Note] Server socket created on IP: '127.0.0.1'.
+121110 11:58:21 [Note] Event Scheduler: Loaded 0 events
+121110 11:58:21 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 11:59:11 [Note] Plugin 'FEDERATED' is disabled.
+121110 11:59:11 [Note] Plugin 'InnoDB' is disabled.
+121110 11:59:11 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 11:59:11 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 11:59:11 [Note] Server socket created on IP: '127.0.0.1'.
+121110 11:59:11 [Note] Event Scheduler: Loaded 0 events
+121110 11:59:11 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 12:06:11 [Note] .\bin\mysqld: Normal shutdown
+
+121110 12:06:11 [Note] Event Scheduler: Purging the queue. 0 events
+121110 12:06:11 [Note] .\bin\mysqld: Shutdown complete
+
+121110 12:38:40 [Note] Plugin 'FEDERATED' is disabled.
+121110 12:38:40 [Note] Plugin 'InnoDB' is disabled.
+121110 12:38:40 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 12:38:40 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 12:38:40 [Note] Server socket created on IP: '127.0.0.1'.
+121110 12:38:40 [Note] Event Scheduler: Loaded 0 events
+121110 12:38:40 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 17:02:47 [Note] .\bin\mysqld: Normal shutdown
+
+121110 17:02:47 [Note] Event Scheduler: Purging the queue. 0 events
+121110 17:02:47 [Note] .\bin\mysqld: Shutdown complete
+
+121110 17:06:14 [Note] Plugin 'FEDERATED' is disabled.
+121110 17:06:14 [Note] Plugin 'InnoDB' is disabled.
+121110 17:06:14 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 17:06:14 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 17:06:14 [Note] Server socket created on IP: '127.0.0.1'.
+121110 17:06:14 [Note] Event Scheduler: Loaded 0 events
+121110 17:06:14 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121110 17:09:49 [Note] Plugin 'FEDERATED' is disabled.
+121110 17:09:49 [Note] Plugin 'InnoDB' is disabled.
+121110 17:09:49 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3316
+121110 17:09:49 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121110 17:09:49 [Note] Server socket created on IP: '127.0.0.1'.
+121110 17:09:49 [Note] Event Scheduler: Loaded 0 events
+121110 17:09:49 [Note] .\bin\mysqld: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3316  MySQL Community Server (GPL)
+121111  4:35:34 [Note] Plugin 'FEDERATED' is disabled.
+121111  4:35:34 [Note] Plugin 'InnoDB' is disabled.
+121111  4:35:34 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121111  4:35:34 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121111  4:35:34 [Note] Server socket created on IP: '127.0.0.1'.
+121111  4:35:34 [Note] Event Scheduler: Loaded 0 events
+121111  4:35:34 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121111  4:36:57 [Note] .\bin\mysqld1: Normal shutdown
+
+121111  4:36:57 [Note] Event Scheduler: Purging the queue. 0 events
+121111  4:36:57 [Note] .\bin\mysqld1: Shutdown complete
+
+121111  4:37:13 [Note] Plugin 'FEDERATED' is disabled.
+121111  4:37:13 [Note] Plugin 'InnoDB' is disabled.
+121111  4:37:13 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121111  4:37:13 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121111  4:37:13 [Note] Server socket created on IP: '127.0.0.1'.
+121111  4:37:13 [Note] Event Scheduler: Loaded 0 events
+121111  4:37:13 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121111  4:42:12 [Note] .\bin\mysqld1: Normal shutdown
+
+121111  4:42:12 [Note] Event Scheduler: Purging the queue. 0 events
+121111  4:42:12 [Note] .\bin\mysqld1: Shutdown complete
+
+121111  4:48:35 [Note] Plugin 'FEDERATED' is disabled.
+121111  4:48:35 [Note] Plugin 'InnoDB' is disabled.
+121111  4:48:35 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121111  4:48:35 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121111  4:48:35 [Note] Server socket created on IP: '127.0.0.1'.
+121111  4:48:35 [Note] Event Scheduler: Loaded 0 events
+121111  4:48:35 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121111  4:51:56 [Note] .\bin\mysqld1: Normal shutdown
+
+121111  4:51:56 [Note] Event Scheduler: Purging the queue. 0 events
+121111  4:51:56 [Note] .\bin\mysqld1: Shutdown complete
+
+121111  4:52:15 [Note] Plugin 'FEDERATED' is disabled.
+121111  4:52:15 [Note] Plugin 'InnoDB' is disabled.
+121111  4:52:15 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121111  4:52:15 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121111  4:52:15 [Note] Server socket created on IP: '127.0.0.1'.
+121111  4:52:15 [Note] Event Scheduler: Loaded 0 events
+121111  4:52:15 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121111  5:01:08 [Note] Plugin 'FEDERATED' is disabled.
+121111  5:01:08 [Note] Plugin 'InnoDB' is disabled.
+121111  5:01:08 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121111  5:01:08 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121111  5:01:08 [Note] Server socket created on IP: '127.0.0.1'.
+121111  5:01:08 [Note] Event Scheduler: Loaded 0 events
+121111  5:01:08 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121111  5:04:53 [Note] .\bin\mysqld1: Normal shutdown
+
+121111  5:04:53 [Note] Event Scheduler: Purging the queue. 0 events
+121111  5:04:53 [Note] .\bin\mysqld1: Shutdown complete
+
+121114  0:28:42 [Note] Plugin 'FEDERATED' is disabled.
+121114  0:28:42 [Note] Plugin 'InnoDB' is disabled.
+121114  0:28:42 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  0:28:42 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  0:28:42 [Note] Server socket created on IP: '127.0.0.1'.
+121114  0:28:42 [Note] Event Scheduler: Loaded 0 events
+121114  0:28:42 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  1:09:32 [Note] Plugin 'FEDERATED' is disabled.
+121114  1:09:32 [Note] Plugin 'InnoDB' is disabled.
+121114  1:09:32 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  1:09:32 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  1:09:32 [Note] Server socket created on IP: '127.0.0.1'.
+121114  1:09:32 [Note] Event Scheduler: Loaded 0 events
+121114  1:09:32 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  1:12:43 [Note] .\bin\mysqld1: Normal shutdown
+
+121114  1:12:43 [Note] Event Scheduler: Purging the queue. 0 events
+121114  1:12:43 [Note] .\bin\mysqld1: Shutdown complete
+
+121114  1:24:59 [Note] Plugin 'FEDERATED' is disabled.
+121114  1:24:59 [Note] Plugin 'InnoDB' is disabled.
+121114  1:24:59 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  1:24:59 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  1:24:59 [Note] Server socket created on IP: '127.0.0.1'.
+121114  1:24:59 [Note] Event Scheduler: Loaded 0 events
+121114  1:24:59 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  1:32:46 [Note] .\bin\mysqld1: Normal shutdown
+
+121114  1:32:46 [Note] Event Scheduler: Purging the queue. 0 events
+121114  1:32:46 [Note] .\bin\mysqld1: Shutdown complete
+
+121114  1:44:45 [Note] Plugin 'FEDERATED' is disabled.
+121114  1:44:45 [Note] Plugin 'InnoDB' is disabled.
+121114  1:44:45 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  1:44:45 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  1:44:45 [Note] Server socket created on IP: '127.0.0.1'.
+121114  1:44:45 [Note] Event Scheduler: Loaded 0 events
+121114  1:44:45 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  1:47:47 [Note] .\bin\mysqld1: Normal shutdown
+
+121114  1:47:47 [Note] Event Scheduler: Purging the queue. 0 events
+121114  1:47:47 [Note] .\bin\mysqld1: Shutdown complete
+
+121114  2:00:07 [Note] Plugin 'FEDERATED' is disabled.
+121114  2:00:07 [Note] Plugin 'InnoDB' is disabled.
+121114  2:00:07 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  2:00:07 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  2:00:07 [Note] Server socket created on IP: '127.0.0.1'.
+121114  2:00:07 [Note] Event Scheduler: Loaded 0 events
+121114  2:00:07 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  2:52:10 [Note] .\bin\mysqld1: Normal shutdown
+
+121114  2:52:10 [Note] Event Scheduler: Purging the queue. 0 events
+121114  2:52:10 [Note] .\bin\mysqld1: Shutdown complete
+
+121114  2:55:07 [Note] Plugin 'FEDERATED' is disabled.
+121114  2:55:07 [Note] Plugin 'InnoDB' is disabled.
+121114  2:55:07 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3317
+121114  2:55:07 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  2:55:07 [Note] Server socket created on IP: '127.0.0.1'.
+121114  2:55:07 [Note] Event Scheduler: Loaded 0 events
+121114  2:55:07 [Note] .\bin\mysqld1: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3317  MySQL Community Server (GPL)
+121114  3:46:04 [Note] Plugin 'FEDERATED' is disabled.
+121114  3:46:04 [Note] Plugin 'InnoDB' is disabled.
+121114  3:46:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3319
+121114  3:46:04 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+121114  3:46:04 [Note] Server socket created on IP: '127.0.0.1'.
+121114  3:46:04 [Note] Event Scheduler: Loaded 0 events
+121114  3:46:04 [Note] .\bin\mysqld2: ready for connections.
+Version: '5.5.24-log'  socket: ''  port: 3319  MySQL Community Server (GPL)
+121114  3:47:41 [Note] .\bin\mysqld2: Normal shutdown
+
+121114  3:47:41 [Note] Event Scheduler: Purging the queue. 0 events
+121114  3:47:41 [Note] .\bin\mysqld2: Shutdown complete
+

@@ -1,0 +1,27 @@
+BattlEye for OA
+D:C:\Program Files (x86)
+D:C:\Program Files (x86)\Steam
+D:C:\Program Files (x86)\Steam\steamapps
+D:C:\Program Files (x86)\Steam\steamapps\common
+D:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead
+D:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion
+D:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\BattlEye
+F:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\BattlEye\BEClient.dll
+F:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\BattlEye\BEServer.dll
+F:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\BattlEye\UninstallBE.csv
+F:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\Expansion\BattlEye\UnInstallBE.exe
+D:C:\Users
+D:C:\Users\dayzplus
+D:C:\Users\dayzplus\AppData
+D:C:\Users\dayzplus\AppData\Roaming
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bohemia Interactive
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bohemia Interactive\Arma 2 Operation Arrowhead
+D:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bohemia Interactive\Arma 2 Operation Arrowhead\BattlEye
+F:C:\Users\dayzplus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bohemia Interactive\Arma 2 Operation Arrowhead\BattlEye\Uninstall BattlEye.lnk
+K:Software\Microsoft\Windows\CurrentVersion\Uninstall\BattlEye for OA
+K:Software\Bohemia Interactive\ArmA 2 OA\BattlEye
+F:C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead\\Expansion\BattlEye\UnInstallBE.log
