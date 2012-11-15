@@ -1,7 +1,7 @@
 Stapo's DayZ: Namalsk Private Server Pack
 =========================
 
-Pack Includes
+Includes
 =============
 
  - DayZ: Namalsk 0.60 Created By Sumrak
