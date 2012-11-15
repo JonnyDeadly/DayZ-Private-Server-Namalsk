@@ -1,4 +1,4 @@
-DayZ: Namalsk Private Server Pack - By Stapo [Based Of Pwnoz0rs Pack]
+Stapo's DayZ: Namalsk Private Server Pack [Based Off Pwnoz0rs Pack]
 
 DayZ: Namalsk Created By Sumrak
 
