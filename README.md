@@ -1,10 +1,19 @@
-Stapo's DayZ: Namalsk Private Server Pack [Based Off Pwnoz0rs Pack]
+DayZ: Namalsk Private Server
+=========================
 
-DayZ: Namalsk Created By Sumrak
+Pack Includes
+=============
+
+ - Stapo's DayZ: Namalsk Private Server Pack [Based Off Pwnoz0rs Pack]
+ - DayZ: Namalsk 0.60 Created By Sumrak
+ - 100% Original DayZ: Namalsk Vehicle Spawns
+ - DayZ 1.7.3 Created By Rocket/Community Development Team
+ - Arma II OA Beta Patch 98866
 
 Requirements
 =============
 
+ - MySQL program such as Navicat or MySQL Workbench
  - Windows (Tested with 7, Server 2008)
  - A working ArmA 2 Combined Ops dedicated server (Steam users must merge ArmA2 and ArmA2 OA Directories)
  - Atleast ArmA II Beta Patch 98866 (Included With This Pack)
