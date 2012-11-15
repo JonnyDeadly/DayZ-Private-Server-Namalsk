@@ -14,7 +14,7 @@ echo.
 echo.
 echo.
 echo Starting server...
-start .\Expansion\beta\arma2oaserver.exe -ip=208.110.84.20 -port=2312 -mod=@hive;@DayZ;@DayZ_Namalsk -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
+start .\Expansion\beta\arma2oaserver.exe -port=2302 -mod=@hive;@DayZ;@DayZ_Namalsk -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
 .\MySQL\cecho {0A}	OK.{07} 
 echo.
 echo.
