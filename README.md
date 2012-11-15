@@ -10,6 +10,11 @@ Requirements
  - Atleast ArmA II Beta Patch 98866 (Included With This Pack)
  - Microsoft Visual C++ 2010 SP1 x86 Redistributable (http://www.microsoft.com/en-us/download/details.aspx?id=8328)
 
+Changelog
+=======
+
+ - http://www.nightstalkers.cz/en_index_dn.php?menu=en_dn_changes
+
 Gotchas / Known Bugs
 ==========
 
@@ -19,3 +24,4 @@ Support
 =======
 
  - http://www.nightstalkers.cz/
+
