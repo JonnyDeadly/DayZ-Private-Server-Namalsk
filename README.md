@@ -12,7 +12,7 @@ Includes
 Requirements
 =============
 
- - MySQL program such as Navicat or MySQL Workbench
+ - MySQL Database program such as Navicat or MySQL Workbench
  - Windows (Tested with 7, Server 2008)
  - A working ArmA 2 Combined Ops dedicated server (Steam users must merge ArmA2 and ArmA2 OA Directories)
  - Atleast ArmA II Beta Patch 98866 (Included With This Pack)
