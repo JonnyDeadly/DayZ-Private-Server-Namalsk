@@ -15,7 +15,7 @@ Changelog
 
  - http://www.nightstalkers.cz/en_index_dn.php?menu=en_dn_changes
 
-Gotchas / Known Bugs
+Known Bugs
 ==========
 
  - Sometimes you will get stuck on "Setup Complete, Please Wait..."
