@@ -1,10 +1,9 @@
-DayZ: Namalsk Private Server
+Stapo's DayZ: Namalsk Private Server Pack
 =========================
 
 Pack Includes
 =============
 
- - Stapo's DayZ: Namalsk Private Server Pack [Based Off Pwnoz0rs Pack]
  - DayZ: Namalsk 0.60 Created By Sumrak
  - 100% Original DayZ: Namalsk Vehicle Spawns
  - DayZ 1.7.3 Created By Rocket/Community Development Team
@@ -33,4 +32,3 @@ Support
 =======
 
  - http://www.nightstalkers.cz/
-
