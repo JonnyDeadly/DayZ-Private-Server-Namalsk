@@ -1,10 +1,6 @@
 startLoadingScreen ["","DayZ_loadingScreen"];
-/*	
-	INITILIZATION
-*/
 enableSaving [false, false];
 
-//REALLY IMPORTANT VALUES
 dayZ_hivePipe1 = 	"\\.\pipe\dayz";	//The named pipe
 dayZ_instance =	1;					//The instance
 hiveInUse	=	true;
@@ -12,7 +8,6 @@ dayzHiveRequest = [];
 initialized = false;
 dayz_previousID = 0;
 
-//Load in compiled functions
 call compile preprocessFileLineNumbers "\nst\ns_dayz\code\init\variables.sqf"; //Initilize the Variables (IMPORTANT: Must happen very early)
 progressLoadingScreen 0.1;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\publicEH.sqf";	//Initilize the publicVariable event handlers
@@ -37,8 +32,6 @@ if ((!isServer) && (player != player)) then
 };
 
 if (isServer) then {
-	//Run the server monitor
-	//_id = ["Volha_1_TK_CIV_EP1",getMarkerPos "carloc",0] spawn object_spawnDamVehicle;
 	hiveInUse	=	true;
 	_serverMonitor = 	[] execVM "\z\addons\dayz_code\system\server_monitor.sqf";
 };
