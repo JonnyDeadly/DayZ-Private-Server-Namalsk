@@ -10,7 +10,7 @@ ping 127.0.0.1 -n 5 >NUL
 echo.
 echo.
 echo Starting Server...
-start .\Expansion\beta\arma2oaserver.exe -mod=@hive;@dayz -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
+start .\Expansion\beta\arma2oaserver.exe -mod=@hive;@dayz;dayz_namalsk -name=cfgdayz -config=cfgdayz\server.cfg -cfg=cfgdayz\arma2.cfg -profiles=cfgdayz
 ping 127.0.0.1 -n 16 >NUL
 .\MySQL\cecho {0A}Started{07} 
 echo.
