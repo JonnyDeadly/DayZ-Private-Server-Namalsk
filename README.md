@@ -25,7 +25,13 @@ Changelog
 Known Bugs
 ==========
 
- - Sometimes you will get stuck on "Setup Complete, Please Wait..."
+	Problem:
+	If a new player is entered in the Database for the first time, they will be presented with the following
+	"This server is running an incorrect version of the server side application. You cannot play on this server. If you are the server admin please contact DayZ staff."
+	
+	Solution:
+	The player just needs to relog into the server and the issue will never happen again.
+   
 
 Support
 =======
