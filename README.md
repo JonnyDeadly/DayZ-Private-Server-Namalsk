@@ -17,6 +17,9 @@ Requirements
  - MySQL Database program such as Navicat or MySQL Workbench
  - Microsoft Visual C++ 2010 SP1 x86 Redistributable (http://www.microsoft.com/en-us/download/details.aspx?id=8328)
 
+Directories
+=======
+
 Changelog
 =======
 
