@@ -20,14 +20,15 @@ Requirements
 Directories
 =======
 
- - cfgdayz - Server Configoration Settings (Server Info, BE Filters, Rcon Password etc.)
+
  - @DayZ - Source Code For DayZ
  - @DayZ_Namalsk - Source Code For DayZ: Namalsk
  - @hive - Source Code For The HiveEXT
+ - Expansion - Battleye dll's (Battleye Folder) And Arma II OA Beta Patch (Beta Folder)
  - Keys - Server Keys (e.g. nst.bikey)
  - MPMissions - Mission File (e.g. dayz_1.namalsk)
  - MySQL - MySQL Server Version 5.5.24 (Contains Database Info)
- - Expansion - Battleye dll's (Battleye Folder) And Arma II OA Beta Patch (Beta Folder)
+ - cfgdayz - Server Configoration Settings (Server Info, BE Filters, Rcon Password etc.)
 
 Changelog
 =======
