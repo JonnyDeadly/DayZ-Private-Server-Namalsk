@@ -26,7 +26,7 @@ echo.
 echo.
 echo.
 echo.
-.\bin\mysqld2 --console
+.\bin\mysqld --console
 if errorlevel 1 goto error
 goto finish
 
