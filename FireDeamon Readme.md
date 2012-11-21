@@ -70,5 +70,6 @@ If you’re unsure about this select the Executable instance once (highlighted b
 You'll then want to add a Pre-Launch Delay under 'settings' of around 5000ms depending on what else you run...
 
 --optional, to kill mySQLd when you stop the service you can add a 'post' executable/batch file which should look something like this,
-@echo off
-taskkill /IM mysqld.exe /F
+
+        @echo off
+        taskkill /IM mysqld.exe /F
